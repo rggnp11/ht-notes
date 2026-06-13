@@ -1,0 +1,27 @@
+# --- Obsidian Workspace and Cache ---
+# Avoid syncing open tabs, split screens, and active file history
+# .obsidian/workspace
+# .obsidian/workspace.json
+# .obsidian/workspace-mobile.json
+# .obsidian/graph.json
+# .obsidian/cache/
+
+# --- System & OS Garbage Files ---
+# Windows folder metadata
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# macOS folder metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Linux / Android temporary files
+.directory
+*~
+*.swp
+
+# --- Log Files ---
+*.log
