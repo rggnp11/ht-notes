@@ -3,7 +3,7 @@
   "defaultViewMode": "preview",
   "livePreview": true,
   "strictLineBreaks": true,
-  "openBehavior": "file:README",
+  "openBehavior": "file:Index",
   "attachmentFolderPath": "./",
   "mobileToolbarCommands": [
     "editor:undo",

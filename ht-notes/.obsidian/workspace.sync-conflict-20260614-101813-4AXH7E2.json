@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "README"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Notes 001/Programming Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Index"
+              "title": "Backlinks for Programming Notes"
             }
           },
           {
@@ -185,20 +185,20 @@
   },
   "active": "bdf98f609ebb4f23",
   "lastOpenFiles": [
-    "Index.md",
     "~syncthing~README.md.tmp",
     "Notes 001/DJP Online.md",
     "Notes 001 A.md",
     "Notes 001/Git filter-branch.md",
+    "README.md",
     "Notes 001/BCA Account for Overseas Transfer.md",
     "Catatan Khotbah/Lagu-lagu.md",
     "Untitled",
     "Notes 001/~syncthing~DJP Online.md.tmp",
     "Notes 001/Programming Notes.md",
     "Catatan Khotbah/Catatan Khotbah 2024.md",
-    "Notes 001/Beli.md",
+    "Beli.md",
     "Notes 001/SG - Singapore Travel.md",
-    "Catatan Khotbah/Sepersepuluh.md",
-    "Notes 001/PLN Listrik DPAM Air Indihome Eznet Iuran BPJS Kas Pulsa Kuota.md"
+    "Sepersepuluh.md",
+    "PLN Listrik DPAM Air Indihome Eznet Iuran BPJS Kas Pulsa Kuota.md"
   ]
 }

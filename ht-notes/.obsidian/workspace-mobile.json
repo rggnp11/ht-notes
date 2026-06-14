@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "493b05d986f04a46",
+        "id": "71e350b29a2b83ca",
         "type": "tabs",
         "children": [
           {
-            "id": "85fdd4ae8fcbd3b2",
+            "id": "3d1fb31584d6ae27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Index.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Index"
             }
           }
         ]
@@ -168,9 +168,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "85fdd4ae8fcbd3b2",
+  "active": "3d1fb31584d6ae27",
   "lastOpenFiles": [
+    "Notes 001/Beli.md",
+    "Notes 001/PLN Listrik DPAM Air Indihome Eznet Iuran BPJS Kas Pulsa Kuota.md",
+    "Catatan Khotbah/Sepersepuluh.md",
     "README.md",
+    "Index.md",
     "Notes 001 A.md",
     "001 Notes A.md",
     "Notes 001/DJP Online.md",
