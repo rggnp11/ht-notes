@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -183,8 +183,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "73ec5376c2cac689",
+  "active": "bdf98f609ebb4f23",
   "lastOpenFiles": [
+    "~syncthing~README.md.tmp",
     "Notes 001/DJP Online.md",
     "Notes 001 A.md",
     "Notes 001/Git filter-branch.md",
